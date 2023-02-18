@@ -50,7 +50,7 @@ const show = () => {
                                                 let remove = document.querySelector('.countdown')
                                                 remove.remove();
                                                 let image = document.createElement('img');
-                                                image.setAttribute('src', '6cf53e30fcc6595bd753ef7f4b9f3baa.gif');
+                                                image.setAttribute('src', 'img.gif');
                                                 image.setAttribute('height','650');
                                                 image.setAttribute('width','350')
                                                 data.append(image);
